@@ -16,18 +16,6 @@ Libft es el primer proyecto del cursus de 42. El objetivo de este proyecto es cr
 ## Introducción
 Libft es un proyecto que busca desarrollar habilidades fundamentales en programación C, como el manejo de memoria, punteros y estructuras. Crearás tu propia librería personalizada con funciones que podrás incluir en futuros proyectos simplemente enlazándola durante la compilación.
 
-## Estructura del proyecto
-El repositorio tiene la siguiente estructura:
-
-```
-.
-|-- libft.h          // Archivo de cabecera principal
-|-- Makefile         // Archivo para automatizar la compilación
-|-- src/             // Directorio que contiene las implementaciones de las funciones
-|-- obj/             // Directorio para los archivos objeto generados durante la compilación
-|-- tests/           // Scripts y programas de prueba (opcional)
-```
-
 ## Compilación
 Para compilar la biblioteca, simplemente ejecuta el siguiente comando en la terminal:
 
